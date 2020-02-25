@@ -1,4 +1,4 @@
-module github.com/bemasher/rtlamr
+module github.com/sjd227/rtlamr_hacks
 
 go 1.12
 
