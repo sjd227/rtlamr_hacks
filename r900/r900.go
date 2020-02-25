@@ -23,8 +23,8 @@ import (
 	"strconv"
 	"sync"
 
-	"github.com/bemasher/rtlamr/protocol"
-	"github.com/bemasher/rtlamr/r900/gf"
+	"github.com/sjd227/rtlamr_hacks/protocol"
+	"github.com/sjd227/rtlamr_hacks/r900/gf"
 )
 
 const (

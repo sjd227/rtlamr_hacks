@@ -30,15 +30,15 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/bemasher/rtlamr/protocol"
+	"github.com/sjd227/rtlamr_hacks/protocol"
 	"github.com/bemasher/rtltcp"
 
-	_ "github.com/bemasher/rtlamr/idm"
-	_ "github.com/bemasher/rtlamr/netidm"
-	_ "github.com/bemasher/rtlamr/r900"
-	_ "github.com/bemasher/rtlamr/r900bcd"
-	_ "github.com/bemasher/rtlamr/scm"
-	_ "github.com/bemasher/rtlamr/scmplus"
+	_ "github.com/sjd227/rtlamr_hacks/idm"
+	_ "github.com/sjd227/rtlamr_hacks/netidm"
+	_ "github.com/sjd227/rtlamr_hacks/r900"
+	_ "github.com/sjd227/rtlamr_hacks/r900bcd"
+	_ "github.com/sjd227/rtlamr_hacks/scm"
+	_ "github.com/sjd227/rtlamr_hacks/scmplus"
 )
 
 var rcvr Receiver

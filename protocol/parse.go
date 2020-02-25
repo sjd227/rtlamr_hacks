@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/bemasher/rtlamr/csv"
+	"github.com/sjd227/rtlamr_hacks/csv"
 )
 
 const (
