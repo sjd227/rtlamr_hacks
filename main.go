@@ -116,7 +116,7 @@ func (rcvr *Receiver) NewReceiver() {
 	rcvr.d.Log()
 
 	// Tell the user how many gain settings were reported by rtl_tcp.
-	log.Println("GainCount:", rcvr.SDR.Info.GainCount)
+	log.Println("GainCountssss:", rcvr.SDR.Info.GainCount)
 
 	return
 }
